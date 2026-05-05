@@ -44,7 +44,7 @@
 ## 🔥 Streak Stats  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=mehakeeman&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -78,7 +78,7 @@ Consistency beats motivation 🔥
 ## 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/your-username/mehakeeman/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
